@@ -1,0 +1,4 @@
+from .contacts_serializer import ContactSerializer
+from .city_serializer import CitySerializer
+from .category_serializer import CategorySerializer
+from .place_serializer import PlaceSerializer
